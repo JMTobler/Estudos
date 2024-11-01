@@ -1,0 +1,83 @@
+Grande guarda chuva da UX
+
+8 principais areas dentro da UX
+
+1° UX Researcher: ❤️
+
+Ele cuida das pesquisas e tudo que é relaciolado à descoberta,
+entendimento e/ou validações sobre o comportamento, hábitos e a experiencia do usuario.
+
+1 - O Responsável pela estrategia e pesquisa de mercado.
+2 - Foca em estudos de usabilidade, entrevistas e metodologias de pesquisa.
+3 - Realiza análises heristicas.
+4 - Constroi personas e mapas de empatia.
+2° Business Analyst ❤️
+
+Ele estuda os tópicos como retenção de clientes e tendências de receita para determinar a melhor maneira de criar 
+metas realistas de cliente, para alcança-las.
+
+1 - Compreende a estrategia e os objetivos do negócio. (OKR's e KR's)
+2 - Articula e esclare os objetivos
+3 - Assegura o valor comercial definido.
+4 - Voz do negócio.
+
+3° Information Architect
+É o responsavel pela organização e estruturação do conteúdo dos Websites, WebApps, mobile e softwares em geral.
+
+1 - Persona-logical architectures.
+2 - Organização e estruturação do conteúdo.
+3 - Estruturação de taxonomias.
+4 - Estruturação de navegabilidade.
+5 - Esquemas de organização e pesquisa.
+
+4° Content Strategist
+Fornece a uma visão que o objetivo é orientar o desenvolvimento do conteúdo de acordo com um objetivo 
+comercial especifico.
+
+1 - Desenvolvimento do conteudo.
+2 - Mapeamento de conteúdo.
+3 - UX - Na experiencia que o usuario vai ter ao acessar o conteudo.
+
+5° Visual Designer (UI)
+O objetivo é criar produtos que permitam o usuário a atingir seus objetivos da melhor maneira possivel.
+imagens, tipografia, espaços, layout, cores mais adequadas para o produto e serviço.
+
+1 - UI 
+2 - Estragia de marca
+3 - Acessibilidade
+4 - Responsividade
+6° Interaction Designer
+O obetivo é criar produtos que permitam o usuário atingir seus objetivos da melhor maneira possivel.
+
+1 - Modelos de interação
+2 - Prototipação
+3 - Testes de usabilidade
+4 - Análise de dados de usabilidade.
+5 - Animações totalmente intuitivas.
+6 - StoryBoards
+7 - Mapas de jornada
+============= Acaba aqui ==============
+
+2 pontos
+
+UX Strategist
+
+O objetivo é encontrar as conexoes entre como a organização mede o recurso de um produto ou serviço
+e como o usuário medo o sucesso de uma experiencia de uso.
+
+Avaliação  e visão de mercado
+Ve os objetivos a serem alcançados
+Planejamentos
+Mensuração e execução de planos de negocio.
+
+
+Frontend developer
+São esses profissional que desenvolvem os elementos de navegação que são criados de acordo com conceitos
+dedesing e podem incluir uitas coisas como: menus, botões, cores, tamanho, textos.
+
+HTML
+css 
+códigos
+
+8 principais areas dentro da UX*
+Vamos considerar somente 6, as duas ultimas podem e devem ser acopladas as areas anteriores.

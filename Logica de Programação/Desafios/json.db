@@ -1,0 +1,40 @@
+{
+    "id": 16,
+    "title": "Super Smash Bros. Ultimate",
+    "cover": "https://i.pinimg.com/originals/26/5b/ab/265bab14d5495d37725bca3e6960347b.jpg",
+    "link": "https://www.youtube.com/watch?v=cVwT_T8v5yU&ab_channel=NintendoPortugal",
+    "system": "Nintendo Switch",
+    "description": "O jogo traz diversos cenários, baseados nos jogos em que os lutadores fazem parte, escolha o de sua preferência e lute até restar apenas um ganhador. São diversos itens para pegar e usar contra seus adversários, e ajudá-lo em sua vitória. Então escolha seu personagem favorito e batalhe contra todos seus adversários."
+},
+{
+    "id": 17,
+    "title": "Super Mario Party",
+    "cover": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000014158/0ca41128bf40b7e0dc32a046a659ecdc69e4d7cc7a3257d6280be665d2f795b5",
+    "link": "https://www.youtube.com/watch?v=by_XTria-mQ&ab_channel=NintendoofAmerica",
+    "system": "Nintendo Switch",
+    "description": "ire o jogo sobre os adversários enquanto você corre pelo tabuleiro para coletar o máximo de estrelas no modo de jogo de tabuleiro da série original Mario Party para quatro jogadores* - agora com o recém-adicionado modo de jogo online.** Junte-se ao frenesi total com amigos e família!"
+},
+{
+    "id": 18,
+    "title": "Animal Crossing: New Horizons",
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg",
+    "link": "https://www.youtube.com/watch?v=_3YNL0OWio0&ab_channel=NintendoofAmerica",
+    "system": "Nintendo Switch",
+    "description": "Animal Crossing: New Horizons é o mais recente jogo da popular série de simulação de vida da Nintendo. Neste jogo, você é convidado a construir uma vida tranquila em uma ilha paradisíaca. O jogo começa quando você embarca em um avião para uma ilha deserta, juntamente com dois outros residentes sorteados aleatoriamente."
+},
+{
+    "id": 19,
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/25/Zelda_TotK_capa.jpg/270px-Zelda_TotK_capa.jpg",
+    "link": "https://www.youtube.com/watch?v=qjRzm9A7DU4&ab_channel=PlayStationBrasil",
+    "system": "Nintendo Switch",
+    "description": "Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus. Será que você conseguirá aproveitar o poder das novas habilidades de Link para lutar contra as forças malévolas que ameaçam o reino?"
+},
+{
+    "id": 20,
+    "title": "Pokémon Scarlet e Violet",
+    "cover": "https://upload.wikimedia.org/wikipedia/pt/8/89/Pok%C3%A9mon_Scarlet_Violet_artes.jpg",
+    "link": "https://www.youtube.com/watch?v=tfQj1aQz8d8",
+    "system": "Nintendo Switch",
+    "description": "você conhecerá o Professor Turo. Sua amiga, Nemona, é uma experiente Treinadora de Pokémon e atua como uma guia confiável para você em suas aventuras. Ele atua como diretor da academia e, como você é um aluno novo, ele o ensinará muitas coisas sobre sua escola."
+},
